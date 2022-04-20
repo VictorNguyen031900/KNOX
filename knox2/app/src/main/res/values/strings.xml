@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">knox</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="vault">Vault</string>
+    <string name="home">Home</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+    <string name="url">URL</string>
+</resources>
